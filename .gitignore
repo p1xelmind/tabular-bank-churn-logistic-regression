@@ -1,0 +1,23 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+*.ipynb.orig
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Kaggle data
+data/
+*.csv
+
+# Misc
+.DS_Store
